@@ -3,7 +3,7 @@
   <meta charsets="UTF-8">
    </head>
   <body>
-    <hi1 style="color: red; text-align: center;">GIỚI THIỆU</hi1>
+    <hi1 style="color:red; text-align: center;">GIỚI THIỆU</hi1>
     <img src="images/ChatGPT Image 10_31_16 19 thg 11, 2025.png" width="180" height="270"
       <h2>Nickname</h2>
   Nom
