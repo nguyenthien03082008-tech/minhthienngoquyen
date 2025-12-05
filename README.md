@@ -2,8 +2,9 @@
   <head>
   <meta charsets="utf-8">
 <style>
-    h1 { color: red; text align: center;}
-    h2 { color: magenta;}
+    h1 { color: red; text align: center; padding: 20;}
+    h2 { color: magenta; padding: 20;}
+    p  { padding: 20;}
 </style>
   </head>
   <body>
