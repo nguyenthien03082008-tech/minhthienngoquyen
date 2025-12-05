@@ -3,7 +3,7 @@
   <meta charsets="utf-8">
      <style>
     h1 { color: red; text align: center;}
-    h2 { color: magenta:}
+    h2 {color: magenta:}
      </style>
   </head>
   <body>
