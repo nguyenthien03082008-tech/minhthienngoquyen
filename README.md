@@ -1,16 +1,14 @@
 <htnl>
   <head>
   <meta charsets="utf-8">
-<style>
+  <style>
     h1 { color: red; text align: center; padding: 20;}
     h2 { color: magenta; padding: 20;}
     p  { padding: 20;}
-</style>
+  </style>
   </head>
   <body>
-    <h1 style="color: red; text-align: center;"> 
-            GIỚI THIỆU BẢN THÂN
-    </h1>
+    <h1> GIỚI THIỆU BẢN THÂN </h1>
      <table>
         <tr>
            <td>
