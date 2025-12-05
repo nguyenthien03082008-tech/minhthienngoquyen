@@ -16,15 +16,15 @@
              <img src="image/photo.jpg" width="180" height="270"
            </td>
            <td>
-              <h2      Nickname </h2>
+              <h2>  Nickname  </h2>
               Nom
-              <h2      Sở thích</h2>
+              <h2>  Sở thích  </h2>
               Nấu ăn
-              <h2      Sở trường</h2>
+              <h2>  Sở trường </h2>
               Nấu ăn
-              <h2      Ước mơ</h2>
+              <h2>  Ước mơ    </h2>
               Có công việc ổn định
-              <h2      Dự định tương lai trong 5 năm tới </h2>
+              <h2>  Dự định tương lai trong 5 năm tới  </h2>
               Tốt nghiệp đại học và có công việc ổn định
            </td>
         </tr>
