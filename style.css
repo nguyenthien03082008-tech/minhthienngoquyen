@@ -5,25 +5,25 @@
 }
 .header{
     flex: 20%;
-    background-color: lightgrey ;
+    background-color: lightblue ;
     background: url("image/file_0000000073c472079ad3964e3c3bcbde.png") center/100% 100% ;
     aspect-ratio: 6/1;
 }
 .menu{
     flex:5%;
-    background-color: darkgrey ;
+    background-color: darkblue ;
 }
 .menu a{
     padding:15px 20px ;
     color : red ;
 }
 .menu hover{
-    background-color: lightgrey ;
+    background-color: lightblue ;
     color : black ;
 }
 .content{
     flex: 70%;
-    background-color: lightgrey ;
+    background-color: lightblue ;
 }
 .content iframe{
     flex:1;
@@ -33,7 +33,7 @@
 }
 .footer{
     flex: 5%;
-    background-color: lightgrey ;
+    background-color: lightblue ;
 }
 
  
